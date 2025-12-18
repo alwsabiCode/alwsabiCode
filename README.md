@@ -49,7 +49,7 @@ C# • SQL Server (T-SQL) • WinForms<br/><br/>
 <h3 align="center">📫 Connect With Me</h3>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/alwsabiCode">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
