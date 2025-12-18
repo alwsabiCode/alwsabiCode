@@ -1,28 +1,26 @@
-<p align="center">
-  <img width="800" height="400" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png">
-</p>
-
-<h2 align="center">Hello 👋, I'm Ali Al-Wasabi</h2>
+<h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-Junior .NET Developer specialized in building backend systems using 
-ASP.NET Core Web API, SQL Server, and C#.  
-Passionate about clean architecture, databases, and real-world software solutions.
+I'm Ali Al-Wasabi, a self-motivated Junior .NET Developer passionate about building
+real-world backend systems and database-driven applications.
 </p>
 
----
+<h4 align="center">
+💻 Junior .NET Developer |
+⚙️ ASP.NET Core Web API |
+🗄️ SQL Server |
+🖥️ WinForms
+</h4>
 
-### 👨‍💻 About Me
-- 🎯 Junior .NET Developer
-- 💻 Strong background in **C#, OOP, Data Structures**
-- 🔧 Backend Development with **ASP.NET Core Web API**
-- 🗄️ Database Design & Development using **SQL Server & T-SQL**
-- 🖥️ Desktop Applications using **Windows Forms**
-- 📚 Always learning and improving my skills
+<p align="center">
+📍 Backend & Database Focused Developer
+</p>
 
----
+<br/>
 
-### 🛠️ Technical Skills
+<h3 align="center">
+🚀 My Tech Stack
+</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -37,36 +35,28 @@ Passionate about clean architecture, databases, and real-world software solution
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
+<br/>
 
-### 🚀 Main Projects
-- **DVLD Management System**
-  - ASP.NET Core Web API + SQL Server + WinForms
-  - Authentication & Authorization
-  - CRUD Operations
-  - Stored Procedures
-  - Clean Layered Architecture
-
-- **Medical Laboratory Management System**
-  - Windows Forms Application
-  - SQL Server Database
-  - Optimized Queries & Stored Procedures
-
----
-
-### 🌐 Connect With Me
+<h3 align="center">
+📌 Main Projects
+</h3>
 
 <p align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+✔ DVLD Management System – ASP.NET Core Web API + SQL Server + WinForms <br/>
+✔ Medical Laboratory Management System – Database Driven Application
+</p>
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
 </p>
