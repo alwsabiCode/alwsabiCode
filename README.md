@@ -52,7 +52,7 @@ C# • SQL Server (T-SQL) • WinForms<br/><br/>
 <a href="https://github.com/alwsabiCode">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/alwsabicode">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 </p>
