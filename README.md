@@ -57,8 +57,6 @@ C# • SQL Server (T-SQL) • WinForms<br/><br/>
 </a>
 </p>
 
-<br/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
-</p>
+
+
