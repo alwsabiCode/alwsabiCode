@@ -1,62 +1,55 @@
-<h2 align="center">Hello 👋 I'm Belal Al-Wasabi</h2>
+<h2 align="center">Hello 👋 I'm Belal Al-Wsabi</h2>
 
 <p align="center">
-Junior .NET Developer with a strong focus on backend development and database-driven systems.<br/>
-I enjoy building clean, structured, and practical software solutions using Microsoft technologies.
+👨‍💻 Junior .NET Developer focused on backend systems, APIs, and database-driven applications using Microsoft technologies.
 </p>
 
 <p align="center">
-💻 C# & ASP.NET Core &nbsp; | &nbsp; 🗄️ SQL Server &nbsp; | &nbsp; 🖥️ WinForms
+💻 C# · ASP.NET Core · SQL Server · WinForms · REST APIs
 </p>
 
-<br/>
+---
 
-<h3 align="center">👨‍💻 About Me</h3>
+### 🚀 About Me
+
+Passionate about clean architecture, optimal database design, and building real-world software solutions that solve problems.  
+Currently seeking opportunities as a **Junior .NET Developer** to grow professionally and contribute to impactful projects.
+
+---
+
+### 🛠 Tech Stack
 
 <p align="center">
-I have a solid foundation in object-oriented programming, data structures, and backend development.<br/>
-I specialize in building RESTful APIs, designing databases, and developing desktop applications.<br/>
-Currently seeking an opportunity as a <b>Junior .NET Developer</b> to grow professionally and contribute to real projects.
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<br/>
+---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+### 📌 Featured Project
 
-<p align="center">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=flat&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-</p>
+#### **DVLD Management System**
+A complete backend system built with:
+- ASP.NET Core Web API  
+- SQL Server (T-SQL stored procedures)  
+- WinForms UI  
 
-<br/>
+Designed with layered architecture, authentication, and efficient CRUD operations.
 
-<h3 align="center">📌 Featured Projects</h3>
+---
 
-<p align="center">
-<b>DVLD Management System</b><br/>
-C# • SQL Server (T-SQL) • WinForms<br/><br/>
-  
-<br/>
-
-<h3 align="center">📫 Connect With Me</h3>
+### 📫 Connect with Me
 
 <p align="center">
 <a href="https://github.com/alwsabiCode">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/alwsabicode">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
-
-
-
