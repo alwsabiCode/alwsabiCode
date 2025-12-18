@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋 I'm Ali Al-Wasabi</h2>
+<h2 align="center">Hello 👋 I'm Belal Al-Wasabi</h2>
 
 <p align="center">
 Junior .NET Developer with a strong focus on backend development and database-driven systems.<br/>
@@ -42,12 +42,8 @@ Currently seeking an opportunity as a <b>Junior .NET Developer</b> to grow profe
 
 <p align="center">
 <b>DVLD Management System</b><br/>
-ASP.NET Core Web API • SQL Server • WinForms<br/><br/>
-
-<b>Medical Laboratory Management System</b><br/>
-Database-driven desktop application with optimized queries
-</p>
-
+C# • SQL Server (T-SQL) • WinForms<br/><br/>
+  
 <br/>
 
 <h3 align="center">📫 Connect With Me</h3>
