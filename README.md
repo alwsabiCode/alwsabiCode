@@ -35,8 +35,8 @@ Currently seeking opportunities as a **Junior .NET Developer** to grow professio
 
 #### **DVLD Management System**
 A complete backend system built with:
-- ASP.NET Core Web API  
-- SQL Server (T-SQL stored procedures)  
+- C#.NET
+- SQL Server (T-SQL)  
 - WinForms UI  
 
 Designed with layered architecture, authentication, and efficient CRUD operations.
